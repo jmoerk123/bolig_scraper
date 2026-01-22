@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Bolig Scraper",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": "https://www.boligsiden.dk/adresse/gerdingvej-35-9520-skoerping-08400265__35_______?udbud=c61ad15c-c0fc-4bf7-afbe-a1a5d886f43d"
+        }
+    ]
+}
